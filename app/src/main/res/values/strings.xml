@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JobListing</string>
+    <string-array name="sort">
+        <item>Newest</item>
+        <item>Oldest</item>
+        <item>Lowest Price</item>
+        <item>Highest Price</item>
+    </string-array>
+</resources>
